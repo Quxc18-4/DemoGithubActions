@@ -16,4 +16,4 @@ jobs:
         uses: actions/checkout@v6.0.2  #Robot tự động copy code vào máy ảo.
 
       - name: Bước 3- Đọc file.
-        run: cat READNE.md  #Mở nội dung file README.md để xem nội dung.
+        run: cat README.md  #Mở nội dung file README.md để xem nội dung.
